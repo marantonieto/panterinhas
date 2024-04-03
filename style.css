@@ -33,8 +33,11 @@
     color: whitesmoke;
 }
 
-.cards{
-  justify-content: center;
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: flex-start; /* Align items to the top */
 }
 
 body{
