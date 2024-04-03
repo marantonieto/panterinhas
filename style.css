@@ -33,6 +33,10 @@
     color: whitesmoke;
 }
 
+.cards{
+  justify-content: center;
+}
+
 body{
     background-color: #121212;
 }
